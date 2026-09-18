@@ -54,3 +54,6 @@ nav a:hover {
   font-size: 0.8rem;
   z-index: 2;
 }
+#badge.badge {
+  background-color: green;
+}
