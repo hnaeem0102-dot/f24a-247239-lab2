@@ -57,6 +57,12 @@ nav a:hover {
 #badge.badge {
   background-color: green;
 }
+nav a:nth-child(2) {
+  background-color: purple;
+  color: white;
+  padding: 0.25rem 0.5rem;
+}
+
 @media (max-width: 600px) {
   nav {
     flex-direction: column;
