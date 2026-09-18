@@ -1,3 +1,24 @@
 * {
   box-sizing: border-box;
 }
+header, footer {
+  background-color: navy;
+  color: white;
+  padding: 1rem;
+}
+
+nav {
+  background-color: grey;
+  display: flex;
+  gap: 1rem;
+  padding: 0.5rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: yellow;
+}
