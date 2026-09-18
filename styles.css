@@ -80,3 +80,6 @@ nav a::before {
     margin-bottom: 0.5rem;
   }
 }
+#status {
+  color: navy;
+}
