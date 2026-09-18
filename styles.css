@@ -53,7 +53,9 @@ nav a:hover {
   padding: 0.25rem 0.5rem;
   font-size: 0.8rem;
   z-index: 2;
+  transform: rotate(-10deg);
 }
+
 #badge.badge {
   background-color: green;
 }
